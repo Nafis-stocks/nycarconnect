@@ -1,0 +1,59 @@
+
+
+.logo{
+    display: inline-block;
+}
+
+.account-menu{
+    display: inline-block;
+    float: right;
+
+}
+
+.account-menu a{
+    margin-right: 20px;
+}
+
+.sort-under a{
+    margin-left: 50px;
+}
+
+.main-display{
+    padding: 5%;
+    
+}
+.display-cards{
+    background-color: aqua;
+    border: 2px black solid;
+    padding: 10px;
+    width: 20%;
+    display:inline-block;
+    margin: 10px;
+}
+
+.display-cards img{
+    width: 90%;
+    margin-left:10px;
+    border: 1px solid black;
+    
+}
+
+.display-cards a{
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+.section-footer{
+    position: relative;
+    background-color: black;
+    color: white;
+    height: 100px;
+    
+}
+
+.section-footer h3{
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}
